@@ -89,3 +89,9 @@ section {
 
 Link de mi CV! https://dsaw-2026-1.github.io/my-cv-part-a-Tomassave/
 
+
+Imagen juego css
+
+![alt text](image.png)
+
+
