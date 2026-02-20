@@ -86,6 +86,7 @@ section {
 
 ¡Buena suerte y diviértanse creando su CV!
 
+Tomás Sarmiento Vela
 
 Link de mi CV! https://dsaw-2026-1.github.io/my-cv-part-a-Tomassave/
 
@@ -97,5 +98,6 @@ Imagen juego css
 Imagen juego rana
 ![alt text](image-1.png)
 
+Imagen juego del jardin 
 ![alt text](image-2.png)
 
